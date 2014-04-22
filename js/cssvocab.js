@@ -17,7 +17,7 @@ $(document).ready(function() {
     },
     {
       'tokenName': 'at-rule',
-      'humanName': 'Règle @s',
+      'humanName': 'Règle @',
       'url': ''
     },
     {
