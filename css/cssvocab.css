@@ -139,14 +139,14 @@ button:focus {
 		top: 0;
 		right: 0;
 		bottom: 0;
-		width: 180px;
+		width: 300px;
 		box-shadow: 0px 0px 5px 0px rgba(0,0,0,.5);
 		overflow: auto;
 		-webkit-overflow-scrolling: touch;
 		transition: right .5s ease;
 	}
 	.sidebar-hide .sidebar {
-		right: -136px;
+		right: -259px;
 	}
 	.sidebar.focus {
 		box-shadow:
