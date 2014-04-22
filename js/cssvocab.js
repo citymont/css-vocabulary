@@ -2,38 +2,38 @@ $(document).ready(function() {
   var vocab = [
     {
       'tokenName': 'comment',
-      'humanName': 'Comment',
+      'humanName': 'Commentaire',
       'url': ''
     },
     {
       'tokenName': 'statement',
-      'humanName': 'Statement',
+      'humanName': 'Déclaration',
       'url': ''
     },
     {
       'tokenName': 'rule-set',
-      'humanName': 'Rule-set',
+      'humanName': 'Ensemble de règles',
       'url': ''
     },
     {
       'tokenName': 'at-rule',
-      'humanName': 'At-rule',
+      'humanName': 'Règle @s',
       'url': ''
     },
     {
       'tokenName': 'media-query',
-      'humanName': 'Media query',
+      'humanName': 'Requête média (Media query)',
       'url': ''
     },
     {
       'tokenName': 'media-query-list',
-      'humanName': 'Media query list',
+      'humanName': 'Liste de requête média (media query)',
       'url': ''
     },
 
     {
       'tokenName': 'media-type',
-      'humanName': 'Media type',
+      'humanName': 'Type de média',
       'url': ''
     },
     {
@@ -43,112 +43,112 @@ $(document).ready(function() {
     },
     {
       'tokenName': 'media-feature',
-      'humanName': 'Media feature',
+      'humanName': 'Caractéristique du Média',
       'url': ''
     },
     {
       'tokenName': 'block',
-      'humanName': 'Block',
+      'humanName': 'Bloc',
       'url': ''
     },
     {
       'tokenName': 'declaration-block',
-      'humanName': 'Declaration block',
+      'humanName': 'Bloc de déclaration',
       'url': ''
     },
     {
       'tokenName': 'selector',
-      'humanName': 'Selector',
+      'humanName': 'Sélecteur',
       'url': ''
     },
     {
       'tokenName': 'simple-selector',
-      'humanName': 'Simple selector',
+      'humanName': 'Simple sélecteur',
       'url': ''
     },
     {
       'tokenName': 'type-selector',
-      'humanName': 'Type selector',
+      'humanName': 'Sélecteur de type',
       'url': ''
     },
     {
       'tokenName': 'universal-selector',
-      'humanName': 'Universal selector',
+      'humanName': 'Sélecteur universel',
       'url': ''
     },
     {
       'tokenName': 'id-selector',
-      'humanName': 'ID selector',
+      'humanName': 'Sélecteur d\'Id',
       'url': ''
     },
     {
       'tokenName': 'class-selector',
-      'humanName': 'Class selector',
+      'humanName': 'Sélecteur de classe',
       'url': ''
     },
     {
       'tokenName': 'attribute-selector',
-      'humanName': 'Attribute selector',
+      'humanName': 'Sélecteur d\'attribut',
       'url': ''
     },
     {
       'tokenName': 'pseudo-class',
-      'humanName': 'Pseudo-class',
+      'humanName': 'Pseudo-classe',
       'url': ''
     },
     {
       'tokenName': 'pseudo-element',
-      'humanName': 'Pseudo-element',
+      'humanName': 'Pseudo-élément',
       'url': ''
     },
     {
       'tokenName': 'combinator',
-      'humanName': 'Combinator',
+      'humanName': 'Combinateur',
       'url': ''
     },
     {
       'tokenName': 'descendant-combinator',
-      'humanName': 'Descendant combinator',
+      'humanName': 'Combinateur descendant',
       'url': ''
     },
     {
       'tokenName': 'child-combinator',
-      'humanName': 'Child combinator',
+      'humanName': 'Combinateur enfant',
       'url': ''
     },
     {
       'tokenName': 'adjacent-sibling-combinator',
-      'humanName': 'Adjacent sibling combinator',
+      'humanName': 'Combinateur adjacent de même parent (premier élément)',
       'url': ''
     },
     {
       'tokenName': 'general-sibling-combinator',
-      'humanName': 'General sibling combinator',
+      'humanName': 'Combinateur adjacent de même parent',
       'url': ''
     },
     {
       'tokenName': 'declaration',
-      'humanName': 'Declaration',
+      'humanName': 'Déclaration',
       'url': ''
     },
     {
       'tokenName': 'property',
-      'humanName': 'Property',
+      'humanName': 'Propriété',
       'url': ''
     },
     {
       'tokenName': 'value',
-      'humanName': 'Value',
+      'humanName': 'Valeur',
       'url': ''
     },
     {
       'tokenName': 'function',
-      'humanName': 'Function',
+      'humanName': 'Fonction',
       'url': ''
     },
     {
       'tokenName': 'keyword',
-      'humanName': 'Keyword',
+      'humanName': 'Mot-clé',
       'url': ''
     },
     /*{
@@ -158,7 +158,7 @@ $(document).ready(function() {
     },*/
     {
       'tokenName': 'string',
-      'humanName': 'String',
+      'humanName': 'Chaîne',
       'url': ''
     },
     {
@@ -168,32 +168,32 @@ $(document).ready(function() {
     },
     {
       'tokenName': 'number',
-      'humanName': 'Number',
+      'humanName': 'Nombre',
       'url': ''
     },
     {
       'tokenName': 'percentage',
-      'humanName': 'Percentage',
+      'humanName': 'Pourcentage',
       'url': ''
     },
     {
       'tokenName': 'length',
-      'humanName': 'Length',
+      'humanName': 'Longueur',
       'url': ''
     },
     {
       'tokenName': 'unit',
-      'humanName': 'Unit',
+      'humanName': 'Unité',
       'url': ''
     },
     {
       'tokenName': 'color',
-      'humanName': 'Color',
+      'humanName': 'Couleur',
       'url': ''
     },
     {
       'tokenName': 'vendor-prefix',
-      'humanName': 'Vendor prefix',
+      'humanName': 'Préfixe CSS du navigateur',
       'url': ''
     },
   ];
