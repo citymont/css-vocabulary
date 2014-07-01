@@ -1,4 +1,7 @@
-# CSS Vocabulary
+# Lexique CSS 
+Traduction en Français : http://citymont.github.io/css-vocabulary/
+
+Application original de @sakamies
 
 A small app to browse through which is what in css. Has some sample css with a list of css terminology. Clicking on anything in one panel highlights the corresponding items in the other.
 
